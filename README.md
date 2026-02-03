@@ -1,5 +1,3 @@
-## Cat Flynn
-
 Most of my code lives at [Sauce Control](https://sauce.wednesday.pizza/ktyl). I sometimes write about it on [my blog](https://ktyl.dev/blog).
 
 <!--
